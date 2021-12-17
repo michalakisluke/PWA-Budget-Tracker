@@ -10,7 +10,8 @@ const FILES_TO_CACHE = [
     './icons/icon-384x384',
     './icons/icon-512x512',
     './js/ibd.js',
-    './js/index.js'
+    './js/index.js',
+    './manifest.json'
 ];
 
 const APP_PREFIX = 'BudgetTracker-';
