@@ -1,11 +1,33 @@
-# Budget Tracker Starter Code
+# PWA Budget Tracker
 
-AS AN avid traveler
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling 
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
+  ## Description
+  This progressive web application is a budget tracker, built with MongoDB. This app allows for offline functionality through use of service workers.
 
-GIVEN a budget tracker without an internet connection
-WHEN the user inputs an expense or deposit
-THEN they will receive a notification that they have added an expense or deposit
-WHEN the user reestablishes an internet connection
-THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+  ## Installation
+  After cloning, run npm install to install pacakages and dependencies.
+
+  ## Usage
+  To use, please visit / deploy the application to heroku for full functionality.
+
+  ## License
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
+  ## Contributing
+  [michalakisluke](https://github.com/michalakisluke)  
+
+  ## Tests
+  n/a
+
+  ## Questions
+  Please reach out to me through github at [michalakisluke](https://github.com/michalakisluke) or by email at michalakisluke@gmail.com
+
+  
